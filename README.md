@@ -1,4 +1,4 @@
-# TextClock
+# ![ic_launcher.webp](app/src/main/res/mipmap-hdpi/ic_launcher.webp) TextClock
 数字时钟显示，含专注模式和番茄计时功能。
 
 功能：
