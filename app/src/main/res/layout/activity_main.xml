@@ -8,6 +8,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="16dp"
+    android:keepScreenOn="true"
     tools:context=".MainActivity">
 
     <TextClock
